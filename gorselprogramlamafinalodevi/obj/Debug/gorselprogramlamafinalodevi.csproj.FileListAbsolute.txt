@@ -1,0 +1,13 @@
+C:\Users\MONSTER\Desktop\gorselprogramlamafinalodevi\gorselprogramlamafinalodevi\bin\Debug\gorselprogramlamafinalodevi.exe.config
+C:\Users\MONSTER\Desktop\gorselprogramlamafinalodevi\gorselprogramlamafinalodevi\bin\Debug\gorselprogramlamafinalodevi.exe
+C:\Users\MONSTER\Desktop\gorselprogramlamafinalodevi\gorselprogramlamafinalodevi\bin\Debug\gorselprogramlamafinalodevi.pdb
+C:\Users\MONSTER\Desktop\gorselprogramlamafinalodevi\gorselprogramlamafinalodevi\obj\Debug\gorselprogramlamafinalodevi.Form1.resources
+C:\Users\MONSTER\Desktop\gorselprogramlamafinalodevi\gorselprogramlamafinalodevi\obj\Debug\gorselprogramlamafinalodevi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\gorselprogramlamafinalodevi\gorselprogramlamafinalodevi\obj\Debug\gorselprogramlamafinalodevi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\gorselprogramlamafinalodevi\gorselprogramlamafinalodevi\obj\Debug\gorselprogramlamafinalodevi.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\gorselprogramlamafinalodevi\gorselprogramlamafinalodevi\obj\Debug\gorselprogramlamafinalodevi.exe
+C:\Users\MONSTER\Desktop\gorselprogramlamafinalodevi\gorselprogramlamafinalodevi\obj\Debug\gorselprogramlamafinalodevi.pdb
+C:\Users\MONSTER\Desktop\gorselprogramlamafinalodevi\gorselprogramlamafinalodevi\obj\Debug\gorselprogramlamafinalodevi.kontrol1.resources
+C:\Users\MONSTER\Desktop\gorselprogramlamafinalodevi\gorselprogramlamafinalodevi\obj\Debug\gorselprogramlamafinalodevi.kontrol3.resources
+C:\Users\MONSTER\Desktop\gorselprogramlamafinalodevi\gorselprogramlamafinalodevi\obj\Debug\gorselprogramlamafinalodevi.kontrol2.resources
+C:\Users\MONSTER\Desktop\gorselprogramlamafinalodevi\gorselprogramlamafinalodevi\obj\Debug\gorselprogramlamafinalodevi.csproj.AssemblyReference.cache
